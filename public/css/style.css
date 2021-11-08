@@ -9,7 +9,7 @@ body {
 }
 
 .col {
-    background-color: gold;
+    background-color: rgb(136, 116, 1);
     margin: 2px;
     text-align: center;
     padding: 10px;
@@ -32,4 +32,21 @@ body {
 }
 #result {
     height: 80px;
+}
+
+.dark { 
+    background-color: black ; 
+    margin: 2px;
+    text-align: center;
+    padding: 10px;
+    color: white ; 
+    font-size: x-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark:hover { 
+    background-color: white;
+    color: black;
 }
