@@ -1,0 +1,16 @@
+        // switch (element.innerText) {
+        //     case "+":
+        //         return a + b
+        //         break;
+
+        //     case "-":
+        //         return a - b
+        //         break;
+        //         case "÷":
+        //             return a / b
+        //             break;
+        //             case "x":
+        //                 return a * b
+        //                 break;
+
+        // }
